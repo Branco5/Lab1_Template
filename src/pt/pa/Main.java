@@ -1,6 +1,5 @@
 package pt.pa;
 
-import pt.pa.adts.Queue;
 import pt.pa.adts.QueueLinkedList;
 
 public class Main {

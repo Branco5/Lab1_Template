@@ -5,7 +5,7 @@ package pt.pa.adts;
  *
  * @param <T>
  */
-public class QueueLinkedList<T> implements Queue<T> {
+public class QueueLinkedList<T> {
 
     private Node header, trailer;
     private int size;
